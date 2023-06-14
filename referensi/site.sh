@@ -4,3 +4,6 @@ https://capekngoding.com/docs/#/
 https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/
 https://www.freecodecamp.org/news/navigation-in-flutter/
 https://www.freecodecamp.org/news/learn-state-management-in-flutter/
+
+course
+https://jagoflutter.com/courses/flutter-slicing-ui/lessons/e-wallet-app/
